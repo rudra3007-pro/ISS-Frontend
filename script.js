@@ -1,4 +1,4 @@
-const API_URL = "https://iss-backend-production.up.railway.app/"
+const API_URL = "https://iss-backend-production.up.railway.app"
 
 
 const map = L.map("map").setView([20,0],2)
