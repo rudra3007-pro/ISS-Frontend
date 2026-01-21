@@ -1,4 +1,4 @@
-const API_URL = "https://iss-backend.onrender.com"
+const API_URL = "https://iss-backend-nf40.onrender.com"
 
 const map = L.map("map").setView([20,0],2)
 
